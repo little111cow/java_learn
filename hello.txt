@@ -1,0 +1,19 @@
+第一行
+第二行
+第三行
+curl "https://upos-hz-mirrorakam.akamaized.net/upgcxcode/20/10/324921020/324921020-1-30280.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEqxTEto8BTrNvN0GvT90W5JZMkX_YN0MvXg8gNEV4NC8xNEV4N03eN0B5tZlqNxTEto8BTrNvNeZVuJ10Kj_g2UB02J0mN0B5tZlqNCNEto8BTrNvNC7MTX502C8f2jmMQJ6mqF2fka1mqx6gqj0eN0B599M=&uipk=5&nbs=1&deadline=1630843292&gen=playurlv2&os=akam&oi=1540250651&trid=cf3cae077b3a4310a20816712ee36cc2u&platform=pc&upsig=9e7586dccbcb5639715f365e5b34d09b&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,platform&hdnts=exp=1630843292~hmac=5fe8d9c567394740d04523d16e4d34a70eb419bde9c8794b0dd2ca826fcb910b&mid=34222368&bvc=vod&nettype=0&orderid=0,1&agrr=0&logo=80000000" ^
+  -H "Connection: keep-alive" ^
+  -H "sec-ch-ua: ^\^"Google Chrome^\^";v=^\^"93^\^", ^\^" Not;A Brand^\^";v=^\^"99^\^", ^\^"Chromium^\^";v=^\^"93^\^"" ^
+  -H "sec-ch-ua-mobile: ?0" ^
+  -H "User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" ^
+  -H "sec-ch-ua-platform: ^\^"Windows^\^"" ^
+  -H "Accept: */*" ^
+  -H "Origin: https://www.bilibili.com" ^
+  -H "Sec-Fetch-Site: cross-site" ^
+  -H "Sec-Fetch-Mode: cors" ^
+  -H "Sec-Fetch-Dest: empty" ^
+  -H "Referer: https://www.bilibili.com/video/BV1fA41157Ht?from=search&seid=17961398563294458529&spm_id_from=333.337.0.0" ^
+  -H "Accept-Language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7" ^
+  -H "Range: bytes=83929-165135" ^
+  -H "If-Range: ^\^"60797478-d5f66b^\^"" ^
+  --compressed
